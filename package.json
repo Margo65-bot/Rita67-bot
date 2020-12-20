@@ -1,0 +1,29 @@
+{
+  "name": "myproj",
+  "version": "1.0.0",
+  "description": "student project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Margo65-bot/Rita67-bot.git"
+  },
+  "keywords": [
+    "study",
+    "node",
+    "js"
+  ],
+  "author": "Margarita Boldar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Margo65-bot/Rita67-bot/issues"
+  },
+  "homepage": "https://github.com/Margo65-bot/Rita67-bot#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0"
+  }
+}
